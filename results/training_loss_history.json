@@ -1,0 +1,16 @@
+{
+  "per_step": [],
+  "per_epoch": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "config": {
+    "num_epochs": 3,
+    "train_pairs": 500,
+    "grad_accum": 4,
+    "lr": 0.0002,
+    "lora_r": 16,
+    "lora_alpha": 32
+  }
+}

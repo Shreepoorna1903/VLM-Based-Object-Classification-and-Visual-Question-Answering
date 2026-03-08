@@ -1,0 +1,19 @@
+{
+  "model": "Qwen/Qwen2-VL-2B-Instruct",
+  "method": "QLoRA (4-bit, r=16, alpha=32)",
+  "num_train_pairs": 500,
+  "num_epochs": 3,
+  "num_eval_pairs": 268,
+  "num_errors": 0,
+  "object_list_f1": 0.4133333333333333,
+  "yesno_accuracy": 0.8930817610062893,
+  "counting_accuracy": 0.0,
+  "overall_accuracy": 0.6082089552238806,
+  "latency_ms_mean": 2902.0571592276215,
+  "latency_ms_median": 1943.9517955001975,
+  "epoch_losses": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

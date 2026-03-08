@@ -1,0 +1,77 @@
+{
+  "model": "facebook/detr-resnet-50",
+  "confidence_threshold": 0.5,
+  "map50": 0.7022926330648848,
+  "overall_precision": 0.5020746887966805,
+  "overall_recall": 0.8153638814016172,
+  "per_category": {
+    "person": {
+      "precision": 0.5079908675799086,
+      "recall": 0.8508604206500956,
+      "tp": 445,
+      "fp": 431,
+      "fn": 78
+    },
+    "bicycle": {
+      "precision": 0.47058823529411764,
+      "recall": 0.7272727272727273,
+      "tp": 8,
+      "fp": 9,
+      "fn": 3
+    },
+    "car": {
+      "precision": 0.5142857142857142,
+      "recall": 0.7627118644067796,
+      "tp": 90,
+      "fp": 85,
+      "fn": 28
+    },
+    "airplane": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "tp": 4,
+      "fp": 1,
+      "fn": 0
+    },
+    "cat": {
+      "precision": 0.8571428571428571,
+      "recall": 0.8571428571428571,
+      "tp": 6,
+      "fp": 1,
+      "fn": 1
+    },
+    "dog": {
+      "precision": 1.0,
+      "recall": 0.2,
+      "tp": 1,
+      "fp": 0,
+      "fn": 4
+    },
+    "bottle": {
+      "precision": 0.36936936936936937,
+      "recall": 0.6612903225806451,
+      "tp": 41,
+      "fp": 70,
+      "fn": 21
+    },
+    "laptop": {
+      "precision": 0.7692307692307693,
+      "recall": 0.8333333333333334,
+      "tp": 10,
+      "fp": 3,
+      "fn": 2
+    },
+    "overall": {
+      "precision": 0.5020746887966805,
+      "recall": 0.8153638814016172,
+      "tp": 605,
+      "fp": 600,
+      "fn": 137
+    }
+  },
+  "latency_ms_mean": 79.48824374376073,
+  "latency_ms_median": 74.30618500006858,
+  "latency_ms_std": 77.60141261128214,
+  "num_test_images": 160,
+  "total_predictions": 1205
+}

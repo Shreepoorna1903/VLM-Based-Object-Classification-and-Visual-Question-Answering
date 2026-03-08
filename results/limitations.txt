@@ -1,0 +1,33 @@
+
+MODEL LIMITATIONS OBSERVED DURING EVALUATION
+=============================================
+
+1. DETR (facebook/detr-resnet-50):
+   - High false positive rate on "person" and "bottle" (frequent COCO categories)
+   - Poor recall on rare categories (dog: 20% recall with only 5 test instances)
+   - Cannot answer questions or provide contextual understanding
+   - Limited to the 91 COCO categories it was trained on
+
+2. Qwen2-VL Zero-Shot:
+   - Verbose responses make structured metric extraction difficult
+   - Very poor counting accuracy (3.4%): tends to describe rather than count
+   - Mentions objects outside our 8-category set, inflating false positives
+   - Significantly slower than DETR (19x latency)
+   - Float16 instability on T4 GPUs required float32 fallback
+
+3. Qwen2-VL Fine-Tuned (QLoRA):
+   - Object List F1 decreased slightly (0.50 -> 0.41) suggesting mild overfitting
+     or distribution shift in response format
+   - Counting accuracy improved with word-number mapping but still low
+   - Some responses include grounding tokens (e.g., "objects(221,297),(629,907)")
+     indicating the model sometimes confuses tasks
+   - Training loss reporting issue: labels included full prompt tokens,
+     making average loss appear near zero
+   - Limited training data (500 pairs) and epochs (3) constrain improvements
+
+4. General Comparison Limitations:
+   - DETR and VLM solve fundamentally different tasks (detection vs VQA),
+     making direct metric comparison imperfect
+   - VQA accuracy depends heavily on response parsing heuristics
+   - 50-image test subset may not capture full performance distribution
+   - Category imbalance (person: 72% of annotations) skews overall metrics

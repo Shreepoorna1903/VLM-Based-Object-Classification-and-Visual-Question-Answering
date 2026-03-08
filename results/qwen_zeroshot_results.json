@@ -1,0 +1,2146 @@
+[
+  {
+    "image_id": 415748,
+    "file_name": "000000415748.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is an elephant walking down a street.",
+    "latency_s": 1.5624269200000072
+  },
+  {
+    "image_id": 415748,
+    "file_name": "000000415748.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 1.54906373599988
+  },
+  {
+    "image_id": 415748,
+    "file_name": "000000415748.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.6088191589999497
+  },
+  {
+    "image_id": 415748,
+    "file_name": "000000415748.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 1.6410376740000174
+  },
+  {
+    "image_id": 415748,
+    "file_name": "000000415748.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.3472249649998957
+  },
+  {
+    "image_id": 269316,
+    "file_name": "000000269316.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects. There is a frisbee in the air, a person wearing a red shirt, another person wearing a white shirt, and a person wearing a red shirt with a white shirt. Additionally, there are two people wearing baseball caps.",
+    "latency_s": 3.366038328999821
+  },
+  {
+    "image_id": 269316,
+    "file_name": "000000269316.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(311,324),(601,964)",
+    "latency_s": 2.007486211000014
+  },
+  {
+    "image_id": 269316,
+    "file_name": "000000269316.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.494948972999964
+  },
+  {
+    "image_id": 269316,
+    "file_name": "000000269316.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.5716837410000153
+  },
+  {
+    "image_id": 269316,
+    "file_name": "000000269316.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "4",
+    "predicted": "There are four persons in this image.",
+    "latency_s": 1.4933323420000306
+  },
+  {
+    "image_id": 239627,
+    "file_name": "000000239627.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "bottle",
+    "predicted": "The image shows a kitchen sink with various items on the countertop. Here are the objects present in the image:\n\n1. **Sink**: A white kitchen sink with a drain and a faucet.\n2. **Drain**: A metal drain with a silver-colored cover.\n3. **Drain Plug**: A metal drain plug.\n4. **Sponges**: Two sponges, one blue and one purple.\n5. **Soap Dispenser**: A soap dispenser with a pump and a blue",
+    "latency_s": 5.624015401999941
+  },
+  {
+    "image_id": 239627,
+    "file_name": "000000239627.jpg",
+    "question": "Is there a bottle in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of a bottle in the image.",
+    "latency_s": 1.487106876000098
+  },
+  {
+    "image_id": 239627,
+    "file_name": "000000239627.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.5078212749999693
+  },
+  {
+    "image_id": 239627,
+    "file_name": "000000239627.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.5125832260000607
+  },
+  {
+    "image_id": 239627,
+    "file_name": "000000239627.jpg",
+    "question": "How many bottles are in this image?",
+    "gt_answer": "2",
+    "predicted": "There are three bottles in the image.",
+    "latency_s": 1.3862272850001318
+  },
+  {
+    "image_id": 250901,
+    "file_name": "000000250901.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects:\n\n1. A sandwich wrapped in brown paper.\n2. A plastic bag.\n3. A pair of shoes.\n4. A bottle cap.\n5. A bottle of water.\n6. A piece of lettuce.\n7. A piece of bread.\n8. A piece of meat.\n9. A piece of cheese.\n10. A piece of onion.\n11. A piece of tomato.\n12. A piece of lettuce.\n13. A",
+    "latency_s": 6.081070498000145
+  },
+  {
+    "image_id": 250901,
+    "file_name": "000000250901.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There are three people in the image.",
+    "latency_s": 1.3744743560000643
+  },
+  {
+    "image_id": 250901,
+    "file_name": "000000250901.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.516145870000173
+  },
+  {
+    "image_id": 250901,
+    "file_name": "000000250901.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.5305496650000805
+  },
+  {
+    "image_id": 250901,
+    "file_name": "000000250901.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "3",
+    "predicted": "There are three persons in the image.",
+    "latency_s": 1.3979655699999967
+  },
+  {
+    "image_id": 302107,
+    "file_name": "000000302107.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects. There is a baseball bat being swung by a player, a baseball glove worn by a catcher, a baseball base, and a baseball bat held by another player. Additionally, there are some other objects like a helmet, a mask, and a glove.",
+    "latency_s": 4.068989047000059
+  },
+  {
+    "image_id": 302107,
+    "file_name": "000000302107.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(500,277),(753,619)",
+    "latency_s": 2.2806566229999135
+  },
+  {
+    "image_id": 302107,
+    "file_name": "000000302107.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.5481560050000098
+  },
+  {
+    "image_id": 302107,
+    "file_name": "000000302107.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.5530831250000574
+  },
+  {
+    "image_id": 302107,
+    "file_name": "000000302107.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "3",
+    "predicted": "There are three persons in this image.",
+    "latency_s": 1.426946831000123
+  },
+  {
+    "image_id": 215072,
+    "file_name": "000000215072.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "bottle, person",
+    "predicted": "The image shows a scene on a beach or seaside location. Here are the objects present in the image:\n\n1. **People**:\n   - Two women are seated on chairs.\n   - One woman is wearing a white outfit and has a white towel draped over her shoulders.\n   - The other woman is wearing a black outfit and has a pink towel draped over her shoulders.\n\n2. **Umbrella**:\n   - A large, striped umbrella is open and providing shade.\n\n3. **Ch",
+    "latency_s": 5.684609034999994
+  },
+  {
+    "image_id": 215072,
+    "file_name": "000000215072.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is a person in the image.",
+    "latency_s": 1.6880942369998593
+  },
+  {
+    "image_id": 215072,
+    "file_name": "000000215072.jpg",
+    "question": "Is there a bottle in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of a bottle in the image.",
+    "latency_s": 1.7446939500000553
+  },
+  {
+    "image_id": 215072,
+    "file_name": "000000215072.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 1.778075709000177
+  },
+  {
+    "image_id": 215072,
+    "file_name": "000000215072.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 1.7253117860000202
+  },
+  {
+    "image_id": 215072,
+    "file_name": "000000215072.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "2",
+    "predicted": "There are two persons in the image.",
+    "latency_s": 1.6437613489999876
+  },
+  {
+    "image_id": 215072,
+    "file_name": "000000215072.jpg",
+    "question": "How many bottles are in this image?",
+    "gt_answer": "2",
+    "predicted": "There is no existence of bottles in the image description.",
+    "latency_s": 1.7364904000000934
+  },
+  {
+    "image_id": 391722,
+    "file_name": "000000391722.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects:\n\n1. A cake with lit candles.\n2. A man in a red jacket holding the cake.\n3. Another man in a blue shirt and tie.\n4. A pink baby bottle with a pacifier.\n5. A wooden table with a drink container on it.\n6. A chair in the background.\n7. A curtain on the right side of the image.\n8. A framed picture on the left side of the image.\n9. A person",
+    "latency_s": 6.805727026000113
+  },
+  {
+    "image_id": 391722,
+    "file_name": "000000391722.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(599,151),(869,451)",
+    "latency_s": 2.7151261310000336
+  },
+  {
+    "image_id": 391722,
+    "file_name": "000000391722.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.1963662810001097
+  },
+  {
+    "image_id": 391722,
+    "file_name": "000000391722.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.2121000029999323
+  },
+  {
+    "image_id": 391722,
+    "file_name": "000000391722.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "5",
+    "predicted": "There are three persons in the image.",
+    "latency_s": 2.1896201659999406
+  },
+  {
+    "image_id": 472623,
+    "file_name": "000000472623.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "bicycle, person",
+    "predicted": "The image shows a person riding a bicycle on a rocky shore near the ocean. There are three people in the background, standing on a rocky outcrop. The scene appears to be taken during the day, as the lighting suggests it is daytime. The overall atmosphere of the image is serene and picturesque, with the ocean and rocky shore providing a beautiful backdrop.",
+    "latency_s": 4.8047598030000245
+  },
+  {
+    "image_id": 472623,
+    "file_name": "000000472623.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is a person in the image.",
+    "latency_s": 1.475837337999792
+  },
+  {
+    "image_id": 472623,
+    "file_name": "000000472623.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a bicycle in the image.",
+    "latency_s": 1.585312654999825
+  },
+  {
+    "image_id": 472623,
+    "file_name": "000000472623.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 1.6069701030000942
+  },
+  {
+    "image_id": 472623,
+    "file_name": "000000472623.jpg",
+    "question": "Is there a dog in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a dog in the image description.",
+    "latency_s": 1.6773469449999538
+  },
+  {
+    "image_id": 472623,
+    "file_name": "000000472623.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "3",
+    "predicted": "There are three persons in the image.",
+    "latency_s": 1.499228513999924
+  },
+  {
+    "image_id": 472623,
+    "file_name": "000000472623.jpg",
+    "question": "How many bicycles are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one bicycle in the image.",
+    "latency_s": 1.5616610960000799
+  },
+  {
+    "image_id": 63552,
+    "file_name": "000000063552.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "cat",
+    "predicted": "The image shows a cat sitting in front of a round mirror. The cat appears to be looking at itself in the mirror.",
+    "latency_s": 3.0548952960000406
+  },
+  {
+    "image_id": 63552,
+    "file_name": "000000063552.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a cat in this image(219,39),(879,770)",
+    "latency_s": 5.415368023999918
+  },
+  {
+    "image_id": 63552,
+    "file_name": "000000063552.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.740163928000129
+  },
+  {
+    "image_id": 63552,
+    "file_name": "000000063552.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 2.366387930999963
+  },
+  {
+    "image_id": 63552,
+    "file_name": "000000063552.jpg",
+    "question": "How many cats are in this image?",
+    "gt_answer": "2",
+    "predicted": "There is one cat in the image.",
+    "latency_s": 2.1852936239999963
+  },
+  {
+    "image_id": 36936,
+    "file_name": "000000036936.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a television set placed on a wooden shelf. The television is turned on and displaying a scene. In front of the television, there is a wooden coffee table with various items on it. On the table, there are several cups, a candle, and a bag of chips. Additionally, there are two people sitting on a couch, with one of them holding a remote control. The couch is adorned with a blanket and pillows. The room also features a potted plant and",
+    "latency_s": 5.542609637999931
+  },
+  {
+    "image_id": 36936,
+    "file_name": "000000036936.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 1.6805159789998925
+  },
+  {
+    "image_id": 36936,
+    "file_name": "000000036936.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.7492628519999016
+  },
+  {
+    "image_id": 36936,
+    "file_name": "000000036936.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.9127961419999338
+  },
+  {
+    "image_id": 36936,
+    "file_name": "000000036936.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "2",
+    "predicted": "There are two persons in the image.",
+    "latency_s": 1.7459663720001117
+  },
+  {
+    "image_id": 453708,
+    "file_name": "000000453708.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a person carrying a large crate filled with bananas on their head. The crate is positioned in the center of the image, and the bananas are piled high on top of it. The person appears to be working or moving the crate, possibly in a market or a busy area where such goods are sold.",
+    "latency_s": 4.201635548000013
+  },
+  {
+    "image_id": 453708,
+    "file_name": "000000453708.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(331,399),(625,999)",
+    "latency_s": 2.288502233999907
+  },
+  {
+    "image_id": 453708,
+    "file_name": "000000453708.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.771606808000115
+  },
+  {
+    "image_id": 453708,
+    "file_name": "000000453708.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.7805721090001043
+  },
+  {
+    "image_id": 453708,
+    "file_name": "000000453708.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "9",
+    "predicted": "There are several people in the image.",
+    "latency_s": 1.8052635300000475
+  },
+  {
+    "image_id": 333402,
+    "file_name": "000000333402.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a bus, a person, a streetlight, and a sign.",
+    "latency_s": 2.4260903629999575
+  },
+  {
+    "image_id": 333402,
+    "file_name": "000000333402.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is a person in the image.",
+    "latency_s": 1.6755753110001024
+  },
+  {
+    "image_id": 333402,
+    "file_name": "000000333402.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.7919435759999942
+  },
+  {
+    "image_id": 333402,
+    "file_name": "000000333402.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.8085293239998919
+  },
+  {
+    "image_id": 333402,
+    "file_name": "000000333402.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "3",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.6592877939999653
+  },
+  {
+    "image_id": 213605,
+    "file_name": "000000213605.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "car, person",
+    "predicted": "In the image, there is a bus, a car, a street sign, and a building.",
+    "latency_s": 2.5337975249999545
+  },
+  {
+    "image_id": 213605,
+    "file_name": "000000213605.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of any people in the image.",
+    "latency_s": 2.257529032999855
+  },
+  {
+    "image_id": 213605,
+    "file_name": "000000213605.jpg",
+    "question": "Is there a car in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a car in the image.",
+    "latency_s": 2.2404203390001385
+  },
+  {
+    "image_id": 213605,
+    "file_name": "000000213605.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 2.148536300999922
+  },
+  {
+    "image_id": 213605,
+    "file_name": "000000213605.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 2.0876586820002103
+  },
+  {
+    "image_id": 213605,
+    "file_name": "000000213605.jpg",
+    "question": "How many cars are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one car visible in the image.",
+    "latency_s": 1.978871738999942
+  },
+  {
+    "image_id": 213605,
+    "file_name": "000000213605.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "I am not sure how many persons are in this image.",
+    "latency_s": 2.1081200120001995
+  },
+  {
+    "image_id": 326248,
+    "file_name": "000000326248.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects and people. There are two tennis players, one wearing a red shirt and the other in a white shirt, who appear to be engaged in a match. There are also two chairs, one of which is occupied by a person sitting on it. The chairs are positioned near the tennis court. Additionally, there are several people in the background, some of whom are wearing sunglasses. There are also some tables and chairs set up, possibly for spectators or other purposes.",
+    "latency_s": 6.552312740999923
+  },
+  {
+    "image_id": 326248,
+    "file_name": "000000326248.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(639,171),(733,390)",
+    "latency_s": 2.216912853999929
+  },
+  {
+    "image_id": 326248,
+    "file_name": "000000326248.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.6792961520000063
+  },
+  {
+    "image_id": 326248,
+    "file_name": "000000326248.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.6872134679999817
+  },
+  {
+    "image_id": 326248,
+    "file_name": "000000326248.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "12",
+    "predicted": "There are 11 people in the image.",
+    "latency_s": 1.6280541690000518
+  },
+  {
+    "image_id": 324715,
+    "file_name": "000000324715.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "laptop",
+    "predicted": "In the image, there is a laptop, a pair of scissors, a roll of tape, and some papers or envelopes.",
+    "latency_s": 2.218840898000053
+  },
+  {
+    "image_id": 324715,
+    "file_name": "000000324715.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is a laptop in the image.",
+    "latency_s": 1.434448509999811
+  },
+  {
+    "image_id": 324715,
+    "file_name": "000000324715.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.676668157999984
+  },
+  {
+    "image_id": 324715,
+    "file_name": "000000324715.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 1.4595680850000008
+  },
+  {
+    "image_id": 324715,
+    "file_name": "000000324715.jpg",
+    "question": "How many laptops are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one laptop in the image.",
+    "latency_s": 1.3083281889998943
+  },
+  {
+    "image_id": 534639,
+    "file_name": "000000534639.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "car",
+    "predicted": "In the image, there is a white train with the label \"EXPO CENTER\" on its front. The train is positioned on a platform, and there are several traffic lights visible in the background. The train appears to be a part of the TriMet MAX system, which is a public transportation system in the Portland, Oregon area.",
+    "latency_s": 4.4649273840000205
+  },
+  {
+    "image_id": 534639,
+    "file_name": "000000534639.jpg",
+    "question": "Is there a car in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of a car in the image.",
+    "latency_s": 2.0503430559999742
+  },
+  {
+    "image_id": 534639,
+    "file_name": "000000534639.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.218794793999905
+  },
+  {
+    "image_id": 534639,
+    "file_name": "000000534639.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.2800495600001796
+  },
+  {
+    "image_id": 534639,
+    "file_name": "000000534639.jpg",
+    "question": "How many cars are in this image?",
+    "gt_answer": "1",
+    "predicted": "I am not sure how many cars are in this image. It can be seen 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24,",
+    "latency_s": 5.889334184999825
+  },
+  {
+    "image_id": 311928,
+    "file_name": "000000311928.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a young boy wearing a white shirt and a baseball cap. He is holding a baseball bat and appears to be in the process of swinging it. The boy is standing in a grassy area, and there is a baseball flying through the air to his right. The scene suggests that the boy is playing baseball.",
+    "latency_s": 4.3659968009999375
+  },
+  {
+    "image_id": 311928,
+    "file_name": "000000311928.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 1.8558405119999861
+  },
+  {
+    "image_id": 311928,
+    "file_name": "000000311928.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.8317783269999381
+  },
+  {
+    "image_id": 311928,
+    "file_name": "000000311928.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 1.7898076049998508
+  },
+  {
+    "image_id": 311928,
+    "file_name": "000000311928.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.635319374999881
+  },
+  {
+    "image_id": 412286,
+    "file_name": "000000412286.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a person playing tennis. The person is wearing a white shirt, black shorts, and white shoes. They are holding a tennis racket and are in the process of hitting a tennis ball. The background shows a tennis court with a green wall and some trees.",
+    "latency_s": 3.543212838999807
+  },
+  {
+    "image_id": 412286,
+    "file_name": "000000412286.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is a person in the image.",
+    "latency_s": 1.3615858210000624
+  },
+  {
+    "image_id": 412286,
+    "file_name": "000000412286.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.6035481590001837
+  },
+  {
+    "image_id": 412286,
+    "file_name": "000000412286.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.6829771499999424
+  },
+  {
+    "image_id": 412286,
+    "file_name": "000000412286.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.510594016999903
+  },
+  {
+    "image_id": 191614,
+    "file_name": "000000191614.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "The image shows two horses in an outdoor setting, likely a horse riding arena. One horse is standing still, while the other is in motion, jumping over a barrier. The setting includes a grassy area, a fence, and some trees in the background. There are also some poles and barriers around the area, which are likely used for training or practice.",
+    "latency_s": 4.902763089000018
+  },
+  {
+    "image_id": 191614,
+    "file_name": "000000191614.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 2.3281680279999364
+  },
+  {
+    "image_id": 191614,
+    "file_name": "000000191614.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.3675756070001626
+  },
+  {
+    "image_id": 191614,
+    "file_name": "000000191614.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.54584166199993
+  },
+  {
+    "image_id": 191614,
+    "file_name": "000000191614.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 2.2449774120000257
+  },
+  {
+    "image_id": 136334,
+    "file_name": "000000136334.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a person skiing downhill on a snowy slope. The skier is wearing a red jacket, beige pants, and a helmet. There are also some flags and poles in the background, which are likely used for skiing or snowboarding events. The scene appears to be taking place in a mountainous area with a forested background.",
+    "latency_s": 4.690553330000057
+  },
+  {
+    "image_id": 136334,
+    "file_name": "000000136334.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is a person in the image.",
+    "latency_s": 1.9472169680000206
+  },
+  {
+    "image_id": 136334,
+    "file_name": "000000136334.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.089590941000097
+  },
+  {
+    "image_id": 136334,
+    "file_name": "000000136334.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.249058522000041
+  },
+  {
+    "image_id": 136334,
+    "file_name": "000000136334.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 2.1016151890000856
+  },
+  {
+    "image_id": 196759,
+    "file_name": "000000196759.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "car",
+    "predicted": "In the image, there is a white van parked in a parking lot. The van has a blue and white advertisement on its side, featuring the \"Lays\" logo and the \"Frito Lay\" logo. The van is parked in a designated parking spot, and there are other vehicles and a few trees visible in the background.",
+    "latency_s": 4.5083716990000084
+  },
+  {
+    "image_id": 196759,
+    "file_name": "000000196759.jpg",
+    "question": "Is there a car in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of a car in the image.",
+    "latency_s": 2.0817240899998524
+  },
+  {
+    "image_id": 196759,
+    "file_name": "000000196759.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.0788764270000684
+  },
+  {
+    "image_id": 196759,
+    "file_name": "000000196759.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.204194945000154
+  },
+  {
+    "image_id": 196759,
+    "file_name": "000000196759.jpg",
+    "question": "How many cars are in this image?",
+    "gt_answer": "3",
+    "predicted": "There are several cars in the image.",
+    "latency_s": 2.0164991280000777
+  },
+  {
+    "image_id": 390826,
+    "file_name": "000000390826.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "bottle, person",
+    "predicted": "In the image, there is a person wearing a white jacket and beige pants, holding a bottle of milk in their hand. The person is walking next to a baby panda. The panda is walking on a grassy area, and the person is holding the bottle of milk close to the panda's face.",
+    "latency_s": 4.2618868240001575
+  },
+  {
+    "image_id": 390826,
+    "file_name": "000000390826.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 2.0358628740000313
+  },
+  {
+    "image_id": 390826,
+    "file_name": "000000390826.jpg",
+    "question": "Is there a bottle in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a bottle in the image.",
+    "latency_s": 2.025978347999853
+  },
+  {
+    "image_id": 390826,
+    "file_name": "000000390826.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.0715299830001186
+  },
+  {
+    "image_id": 390826,
+    "file_name": "000000390826.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 2.263076715999887
+  },
+  {
+    "image_id": 390826,
+    "file_name": "000000390826.jpg",
+    "question": "How many bottles are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one bottle in the image.",
+    "latency_s": 2.011192585999879
+  },
+  {
+    "image_id": 390826,
+    "file_name": "000000390826.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.9435726000001523
+  },
+  {
+    "image_id": 190637,
+    "file_name": "000000190637.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a child sitting on a couch, holding a remote control. The child is wrapped in a blanket and appears to be engaged in some activity, possibly watching TV or playing a video game.",
+    "latency_s": 3.1215826740001376
+  },
+  {
+    "image_id": 190637,
+    "file_name": "000000190637.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 1.6769535029998224
+  },
+  {
+    "image_id": 190637,
+    "file_name": "000000190637.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image description.",
+    "latency_s": 1.760113500999978
+  },
+  {
+    "image_id": 190637,
+    "file_name": "000000190637.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 1.9075217349998184
+  },
+  {
+    "image_id": 190637,
+    "file_name": "000000190637.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.6860687719999987
+  },
+  {
+    "image_id": 353970,
+    "file_name": "000000353970.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "cat",
+    "predicted": "In the image, there is a cat sitting on a chair. The cat has a gray coat with a white patch on its chest and green eyes. The chair is made of wood and has a dark-colored cushion. The cat appears to be resting or lounging on the chair.",
+    "latency_s": 3.6414226780000263
+  },
+  {
+    "image_id": 353970,
+    "file_name": "000000353970.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a cat in the image.",
+    "latency_s": 1.6754009119999864
+  },
+  {
+    "image_id": 353970,
+    "file_name": "000000353970.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.7048219030000382
+  },
+  {
+    "image_id": 353970,
+    "file_name": "000000353970.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 1.7754110270000183
+  },
+  {
+    "image_id": 353970,
+    "file_name": "000000353970.jpg",
+    "question": "How many cats are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one cat in the image.",
+    "latency_s": 1.5920267220001278
+  },
+  {
+    "image_id": 389812,
+    "file_name": "000000389812.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a man holding a bunch of bananas. The man is wearing a light-colored shirt and appears to be smiling. The bananas are yellow and appear to be ripe. The background shows a wooden structure and some greenery, suggesting that the scene might be set in a garden or a farm.",
+    "latency_s": 5.022703184000193
+  },
+  {
+    "image_id": 389812,
+    "file_name": "000000389812.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(219,103),(869,991)",
+    "latency_s": 2.5589199650000864
+  },
+  {
+    "image_id": 389812,
+    "file_name": "000000389812.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.055581071000006
+  },
+  {
+    "image_id": 389812,
+    "file_name": "000000389812.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.0555901380000705
+  },
+  {
+    "image_id": 389812,
+    "file_name": "000000389812.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.932941020999806
+  },
+  {
+    "image_id": 157365,
+    "file_name": "000000157365.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "car, person",
+    "predicted": "In the image, there is a man riding a skateboard on a street. The street is lined with parked cars and there are traffic lights in the background. The man is wearing a plaid shirt and has a watch on his left wrist.",
+    "latency_s": 3.9985225699999773
+  },
+  {
+    "image_id": 157365,
+    "file_name": "000000157365.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 1.6619884409999486
+  },
+  {
+    "image_id": 157365,
+    "file_name": "000000157365.jpg",
+    "question": "Is there a car in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a car(5,271),(279,587)",
+    "latency_s": 2.1224625929999092
+  },
+  {
+    "image_id": 157365,
+    "file_name": "000000157365.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 1.749223346000008
+  },
+  {
+    "image_id": 157365,
+    "file_name": "000000157365.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 1.7208235690000038
+  },
+  {
+    "image_id": 157365,
+    "file_name": "000000157365.jpg",
+    "question": "How many cars are in this image?",
+    "gt_answer": "4",
+    "predicted": "There are several cars in the image.",
+    "latency_s": 1.5882140809999328
+  },
+  {
+    "image_id": 157365,
+    "file_name": "000000157365.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.6907461459998103
+  },
+  {
+    "image_id": 89271,
+    "file_name": "000000089271.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "cat",
+    "predicted": "In the image, there is a cat wearing a hat. The hat has an orange and brown pattern.",
+    "latency_s": 2.808062992000032
+  },
+  {
+    "image_id": 89271,
+    "file_name": "000000089271.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a cat in the image.",
+    "latency_s": 2.0923817469999904
+  },
+  {
+    "image_id": 89271,
+    "file_name": "000000089271.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image description.",
+    "latency_s": 2.165556054000035
+  },
+  {
+    "image_id": 89271,
+    "file_name": "000000089271.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.1170937529998355
+  },
+  {
+    "image_id": 89271,
+    "file_name": "000000089271.jpg",
+    "question": "How many cats are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one cat in the image.",
+    "latency_s": 1.9882942399999592
+  },
+  {
+    "image_id": 464089,
+    "file_name": "000000464089.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects and individuals. The main focus is on a baseball game in progress. There are several players, including a batter, a catcher, and a pitcher. The batter is holding a baseball bat and appears to be in the middle of a swing. The catcher is wearing a helmet, mask, and a baseball glove, ready to catch the ball. The pitcher is standing behind the catcher, holding a baseball and a baseball bat. There are also other players in the background",
+    "latency_s": 6.836343169999964
+  },
+  {
+    "image_id": 464089,
+    "file_name": "000000464089.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(511,229),(761,915)",
+    "latency_s": 2.594635124999968
+  },
+  {
+    "image_id": 464089,
+    "file_name": "000000464089.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.0542945750000854
+  },
+  {
+    "image_id": 464089,
+    "file_name": "000000464089.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.0462138390000746
+  },
+  {
+    "image_id": 464089,
+    "file_name": "000000464089.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "10",
+    "predicted": "There are five people in the image.",
+    "latency_s": 1.9099440690001757
+  },
+  {
+    "image_id": 465129,
+    "file_name": "000000465129.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "bottle, person",
+    "predicted": "In the image, there is a person wearing a white robe, standing in a kitchen. The person is holding a cup and appears to be adjusting or holding something above their head. The kitchen features a microwave oven, a sink with a faucet, and various kitchen utensils and appliances. There are also cabinets and a refrigerator visible in the background.",
+    "latency_s": 5.171117897000158
+  },
+  {
+    "image_id": 465129,
+    "file_name": "000000465129.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 2.0253595009999117
+  },
+  {
+    "image_id": 465129,
+    "file_name": "000000465129.jpg",
+    "question": "Is there a bottle in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of a bottle in the image.",
+    "latency_s": 2.069060070999967
+  },
+  {
+    "image_id": 465129,
+    "file_name": "000000465129.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.0646934769999916
+  },
+  {
+    "image_id": 465129,
+    "file_name": "000000465129.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 2.051016858000139
+  },
+  {
+    "image_id": 465129,
+    "file_name": "000000465129.jpg",
+    "question": "How many bottles are in this image?",
+    "gt_answer": "3",
+    "predicted": "There are two bottles in the image.",
+    "latency_s": 2.0796063340001183
+  },
+  {
+    "image_id": 465129,
+    "file_name": "000000465129.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 2.042087500999969
+  },
+  {
+    "image_id": 352491,
+    "file_name": "000000352491.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a train on the tracks.",
+    "latency_s": 2.104998382999838
+  },
+  {
+    "image_id": 352491,
+    "file_name": "000000352491.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of any people in the image.",
+    "latency_s": 2.0751352889999453
+  },
+  {
+    "image_id": 352491,
+    "file_name": "000000352491.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.073411791999888
+  },
+  {
+    "image_id": 352491,
+    "file_name": "000000352491.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.0560242249998737
+  },
+  {
+    "image_id": 352491,
+    "file_name": "000000352491.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "5",
+    "predicted": "I am not sure how many persons are in this image.",
+    "latency_s": 2.262087665000081
+  },
+  {
+    "image_id": 361730,
+    "file_name": "000000361730.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several people gathered in a park, flying kites. The sky is filled with various kites of different shapes and sizes, creating a vibrant and lively atmosphere. The park is located near a body of water, and there are benches and other structures visible in the background. The people are enjoying the outdoor activity, and the scene is likely part of a kite festival or a similar event.",
+    "latency_s": 5.546820792999824
+  },
+  {
+    "image_id": 361730,
+    "file_name": "000000361730.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(631,789),(671,889)",
+    "latency_s": 2.5970592610001404
+  },
+  {
+    "image_id": 361730,
+    "file_name": "000000361730.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.0703159019999475
+  },
+  {
+    "image_id": 361730,
+    "file_name": "000000361730.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.1015104919999885
+  },
+  {
+    "image_id": 361730,
+    "file_name": "000000361730.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "13",
+    "predicted": "There are several people in the image.",
+    "latency_s": 2.066259132999903
+  },
+  {
+    "image_id": 356125,
+    "file_name": "000000356125.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are two elephants and a person. The person is standing on a wooden platform, possibly a platform used for feeding or interacting with the elephants. The elephants are standing behind a wooden barrier, which seems to be a fence or a barrier to keep the elephants contained. The background features a grassy field and a mountainous landscape.",
+    "latency_s": 4.824937645000091
+  },
+  {
+    "image_id": 356125,
+    "file_name": "000000356125.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 2.043499885999836
+  },
+  {
+    "image_id": 356125,
+    "file_name": "000000356125.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.0896285740000167
+  },
+  {
+    "image_id": 356125,
+    "file_name": "000000356125.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.091048853000075
+  },
+  {
+    "image_id": 356125,
+    "file_name": "000000356125.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 2.0594591060000766
+  },
+  {
+    "image_id": 376093,
+    "file_name": "000000376093.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects. There are two pizzas, one on the left side and another on the right side. There are two cups, one on the left and another on the right. There are two boxes, one on the left and another on the right. There are two bottles, one on the left and another on the right. There are two people, one on the left and another on the right. There is a person in the middle, possibly a boy, wearing a",
+    "latency_s": 6.266616541000076
+  },
+  {
+    "image_id": 376093,
+    "file_name": "000000376093.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(639,215),(919,999)",
+    "latency_s": 2.6092231549998814
+  },
+  {
+    "image_id": 376093,
+    "file_name": "000000376093.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.100583938999989
+  },
+  {
+    "image_id": 376093,
+    "file_name": "000000376093.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.2492112290001387
+  },
+  {
+    "image_id": 376093,
+    "file_name": "000000376093.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "5",
+    "predicted": "There are five people in the image.",
+    "latency_s": 2.055065890000151
+  },
+  {
+    "image_id": 165681,
+    "file_name": "000000165681.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "car, person",
+    "predicted": "In the image, there are several motorcycles parked in a row. The motorcycles are lined up along a street, and they appear to be parked in a row. The motorcycles are of different sizes and models, and they are all facing the same direction. The scene is set in an urban environment, with buildings and other structures visible in the background.",
+    "latency_s": 4.396697910000057
+  },
+  {
+    "image_id": 165681,
+    "file_name": "000000165681.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of any people in the image.",
+    "latency_s": 1.9027730830000564
+  },
+  {
+    "image_id": 165681,
+    "file_name": "000000165681.jpg",
+    "question": "Is there a car in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of a car in the image.",
+    "latency_s": 1.9190450799999326
+  },
+  {
+    "image_id": 165681,
+    "file_name": "000000165681.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 1.947421720000193
+  },
+  {
+    "image_id": 165681,
+    "file_name": "000000165681.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 2.0324836559998403
+  },
+  {
+    "image_id": 165681,
+    "file_name": "000000165681.jpg",
+    "question": "How many cars are in this image?",
+    "gt_answer": "1",
+    "predicted": "There are no cars visible in the image.",
+    "latency_s": 1.9389205009999841
+  },
+  {
+    "image_id": 165681,
+    "file_name": "000000165681.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "11",
+    "predicted": "There are two persons in the image.",
+    "latency_s": 1.7611877499998627
+  },
+  {
+    "image_id": 439623,
+    "file_name": "000000439623.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "car",
+    "predicted": "In the image, there is a white fire hydrant on a sidewalk.",
+    "latency_s": 2.236093987000004
+  },
+  {
+    "image_id": 439623,
+    "file_name": "000000439623.jpg",
+    "question": "Is there a car in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a car in the image.",
+    "latency_s": 2.0279232580001008
+  },
+  {
+    "image_id": 439623,
+    "file_name": "000000439623.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.0669762770000943
+  },
+  {
+    "image_id": 439623,
+    "file_name": "000000439623.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.0701321530000314
+  },
+  {
+    "image_id": 439623,
+    "file_name": "000000439623.jpg",
+    "question": "How many cars are in this image?",
+    "gt_answer": "6",
+    "predicted": "There are three cars in the image.",
+    "latency_s": 2.0499050040000384
+  },
+  {
+    "image_id": 187734,
+    "file_name": "000000187734.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects and people. There are several people standing and sitting on a green court, holding tennis rackets. There is a ladder positioned near the court. Additionally, there are several tennis balls scattered around the court. The setting appears to be a virtual tennis court, as indicated by the \"Virtual Tennis Court\" sign on the backdrop.",
+    "latency_s": 4.845228844000076
+  },
+  {
+    "image_id": 187734,
+    "file_name": "000000187734.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(174,287),(284,847)",
+    "latency_s": 2.584440326000049
+  },
+  {
+    "image_id": 187734,
+    "file_name": "000000187734.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.067020783000089
+  },
+  {
+    "image_id": 187734,
+    "file_name": "000000187734.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.080633917000114
+  },
+  {
+    "image_id": 187734,
+    "file_name": "000000187734.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "10",
+    "predicted": "There are 10 people in the image.",
+    "latency_s": 2.1697174349999386
+  },
+  {
+    "image_id": 507223,
+    "file_name": "000000507223.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects. There is a baseball bat, a baseball glove, a baseball, and a baseball bat. Additionally, there are two baseball players, one wearing a blue and red uniform and the other wearing a blue and white uniform. There is also an umpire and a catcher.",
+    "latency_s": 4.3193064429999595
+  },
+  {
+    "image_id": 507223,
+    "file_name": "000000507223.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(524,359),(999,999)",
+    "latency_s": 2.5808772480002062
+  },
+  {
+    "image_id": 507223,
+    "file_name": "000000507223.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.0515275190000466
+  },
+  {
+    "image_id": 507223,
+    "file_name": "000000507223.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.065329077000115
+  },
+  {
+    "image_id": 507223,
+    "file_name": "000000507223.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "7",
+    "predicted": "There are five people in the image.",
+    "latency_s": 2.0245086869999795
+  },
+  {
+    "image_id": 440171,
+    "file_name": "000000440171.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is an elephant and a person. The elephant is standing on a sandy ground near a body of water, and the person is riding on its back. The person is wearing a hat and appears to be interacting with the elephant.",
+    "latency_s": 3.716102514999875
+  },
+  {
+    "image_id": 440171,
+    "file_name": "000000440171.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 1.6867712650000612
+  },
+  {
+    "image_id": 440171,
+    "file_name": "000000440171.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.7016456080000353
+  },
+  {
+    "image_id": 440171,
+    "file_name": "000000440171.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.7208455620000223
+  },
+  {
+    "image_id": 440171,
+    "file_name": "000000440171.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "2",
+    "predicted": "There are two persons in the image.",
+    "latency_s": 1.58350402699989
+  },
+  {
+    "image_id": 448410,
+    "file_name": "000000448410.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "objects(345,108),(628,837)",
+    "latency_s": 2.597312097999975
+  },
+  {
+    "image_id": 448410,
+    "file_name": "000000448410.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person in this image(259,314),(299,466)",
+    "latency_s": 2.926924359000168
+  },
+  {
+    "image_id": 448410,
+    "file_name": "000000448410.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.9344356839999364
+  },
+  {
+    "image_id": 448410,
+    "file_name": "000000448410.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.9006360150001456
+  },
+  {
+    "image_id": 448410,
+    "file_name": "000000448410.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "11",
+    "predicted": "There are several people in the image.",
+    "latency_s": 1.7715607710001677
+  },
+  {
+    "image_id": 49060,
+    "file_name": "000000049060.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "The image depicts a black and white photograph of a steam train at a station. The train is a large, vintage locomotive with a prominent steam engine, which is emitting smoke. The train is pulling several passenger cars, indicating it is a passenger train. The station platform is visible, with a few people standing and waiting, possibly boarding or alighting from the train.\n\nThe train is positioned on the tracks, and the station appears to be located in a residential area with houses in the background. The",
+    "latency_s": 6.012739924000016
+  },
+  {
+    "image_id": 49060,
+    "file_name": "000000049060.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is no existence of any people in the image.",
+    "latency_s": 1.9627681380000013
+  },
+  {
+    "image_id": 49060,
+    "file_name": "000000049060.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.7477995529998225
+  },
+  {
+    "image_id": 49060,
+    "file_name": "000000049060.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 1.7512894840001536
+  },
+  {
+    "image_id": 49060,
+    "file_name": "000000049060.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "6",
+    "predicted": "There are three persons in the image.",
+    "latency_s": 1.5954964740001287
+  },
+  {
+    "image_id": 186296,
+    "file_name": "000000186296.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "cat",
+    "predicted": "In the image, there is a cat lying on the floor next to a shoe.",
+    "latency_s": 2.3275290100000348
+  },
+  {
+    "image_id": 186296,
+    "file_name": "000000186296.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a cat in the image.",
+    "latency_s": 2.0347092680001424
+  },
+  {
+    "image_id": 186296,
+    "file_name": "000000186296.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.257818661000101
+  },
+  {
+    "image_id": 186296,
+    "file_name": "000000186296.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.207349052000154
+  },
+  {
+    "image_id": 186296,
+    "file_name": "000000186296.jpg",
+    "question": "How many cats are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one cat in the image.",
+    "latency_s": 1.9412247230000048
+  },
+  {
+    "image_id": 379332,
+    "file_name": "000000379332.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are several objects:\n\n1. A tennis racket held by the man in the foreground.\n2. A tennis ball in the air.\n3. A tennis net in the background.\n4. A chain-link fence behind the man.\n5. A person in the background, possibly a spectator or another player.\n6. A building with a corrugated metal roof in the background.",
+    "latency_s": 4.4368168969999715
+  },
+  {
+    "image_id": 379332,
+    "file_name": "000000379332.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(879,378),(995,993)",
+    "latency_s": 1.9845417129999987
+  },
+  {
+    "image_id": 379332,
+    "file_name": "000000379332.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.564229732000058
+  },
+  {
+    "image_id": 379332,
+    "file_name": "000000379332.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 1.7187891589999253
+  },
+  {
+    "image_id": 379332,
+    "file_name": "000000379332.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "3",
+    "predicted": "There are three persons in the image.",
+    "latency_s": 1.5225923059999786
+  },
+  {
+    "image_id": 503755,
+    "file_name": "000000503755.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a person wearing a white shirt, a white hat, and sunglasses. The person is also holding a tennis racket. The background features a tennis court and a fence.",
+    "latency_s": 3.2901859429998694
+  },
+  {
+    "image_id": 503755,
+    "file_name": "000000503755.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There is a person in the image.",
+    "latency_s": 1.9532474279999406
+  },
+  {
+    "image_id": 503755,
+    "file_name": "000000503755.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.0839383560000897
+  },
+  {
+    "image_id": 503755,
+    "file_name": "000000503755.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 2.112246670999866
+  },
+  {
+    "image_id": 503755,
+    "file_name": "000000503755.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 2.0932214859999476
+  },
+  {
+    "image_id": 407002,
+    "file_name": "000000407002.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a person wearing a red jacket, ski goggles, and a helmet. The person is standing on a snow-covered slope with skis attached to their feet. The background features a snowy landscape with trees and mountains in the distance.",
+    "latency_s": 4.027695161000111
+  },
+  {
+    "image_id": 407002,
+    "file_name": "000000407002.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 2.0201591000000008
+  },
+  {
+    "image_id": 407002,
+    "file_name": "000000407002.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.0714105920001202
+  },
+  {
+    "image_id": 407002,
+    "file_name": "000000407002.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 2.082218292000107
+  },
+  {
+    "image_id": 407002,
+    "file_name": "000000407002.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.9215514540001095
+  },
+  {
+    "image_id": 394206,
+    "file_name": "000000394206.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "car, person",
+    "predicted": "In the image, there are several objects:\n\n1. A large truck or vehicle with a canopy or roof.\n2. Several people sitting on the truck, wearing traditional clothing and accessories.\n3. A blue vehicle, possibly a jeep or SUV, moving in the background.\n4. Trees and greenery in the background, indicating an outdoor setting.\n5. A street or road where the vehicles are moving.\n6. A person wearing a hat and sunglasses, possibly a driver or a passenger in the blue",
+    "latency_s": 6.358303780999904
+  },
+  {
+    "image_id": 394206,
+    "file_name": "000000394206.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "a person(529,412),(689,852)",
+    "latency_s": 2.58782221499996
+  },
+  {
+    "image_id": 394206,
+    "file_name": "000000394206.jpg",
+    "question": "Is there a car in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a car in the image.",
+    "latency_s": 2.006989916000066
+  },
+  {
+    "image_id": 394206,
+    "file_name": "000000394206.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 2.092838636999886
+  },
+  {
+    "image_id": 394206,
+    "file_name": "000000394206.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 2.2490135729999565
+  },
+  {
+    "image_id": 394206,
+    "file_name": "000000394206.jpg",
+    "question": "How many cars are in this image?",
+    "gt_answer": "2",
+    "predicted": "There is one car in the image.",
+    "latency_s": 2.0987046259999715
+  },
+  {
+    "image_id": 394206,
+    "file_name": "000000394206.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "10",
+    "predicted": "There are 10 people in the image.",
+    "latency_s": 2.0113560889999462
+  },
+  {
+    "image_id": 307172,
+    "file_name": "000000307172.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "objects in this image(1,0),(997,993)",
+    "latency_s": 2.1434859470000447
+  },
+  {
+    "image_id": 307172,
+    "file_name": "000000307172.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 1.662953360000074
+  },
+  {
+    "image_id": 307172,
+    "file_name": "000000307172.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 1.7195805189999191
+  },
+  {
+    "image_id": 307172,
+    "file_name": "000000307172.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.716105207000055
+  },
+  {
+    "image_id": 307172,
+    "file_name": "000000307172.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There are two persons in this image.",
+    "latency_s": 1.6852396479998788
+  },
+  {
+    "image_id": 536038,
+    "file_name": "000000536038.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a person lying on a bed with a book in their hands. The person is wearing purple socks and a patterned shirt. The bed has a headboard and a headboard is visible in the background.",
+    "latency_s": 3.573980315999961
+  },
+  {
+    "image_id": 536038,
+    "file_name": "000000536038.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 1.6114269760000752
+  },
+  {
+    "image_id": 536038,
+    "file_name": "000000536038.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image description.",
+    "latency_s": 1.7099780080000073
+  },
+  {
+    "image_id": 536038,
+    "file_name": "000000536038.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.6466203589998258
+  },
+  {
+    "image_id": 536038,
+    "file_name": "000000536038.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "2",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.5503848910000215
+  },
+  {
+    "image_id": 73702,
+    "file_name": "000000073702.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there are two men standing next to each other. One man is wearing a white hat with the letters \"SL\" on it, and the other man is wearing a blue shirt. They are both carrying bags and are standing near a white vehicle with the text \"NEW YORK STATE CERTIFIED TRAFFIC CONTROL.\" There is also a traffic control box visible in the background.",
+    "latency_s": 5.92203664900012
+  },
+  {
+    "image_id": 73702,
+    "file_name": "000000073702.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "There are two people in the image.",
+    "latency_s": 1.9506897769999796
+  },
+  {
+    "image_id": 73702,
+    "file_name": "000000073702.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.0854067230000055
+  },
+  {
+    "image_id": 73702,
+    "file_name": "000000073702.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 2.117466515999922
+  },
+  {
+    "image_id": 73702,
+    "file_name": "000000073702.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "2",
+    "predicted": "There are two persons in the image.",
+    "latency_s": 1.942332972000031
+  },
+  {
+    "image_id": 112110,
+    "file_name": "000000112110.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "person",
+    "predicted": "In the image, there is a person wearing jeans and sneakers, standing on a briefcase. The briefcase is placed on a paved surface, possibly a sidewalk or a street.",
+    "latency_s": 3.606896061000043
+  },
+  {
+    "image_id": 112110,
+    "file_name": "000000112110.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 2.131540707999875
+  },
+  {
+    "image_id": 112110,
+    "file_name": "000000112110.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a laptop in the image.",
+    "latency_s": 2.078360294000049
+  },
+  {
+    "image_id": 112110,
+    "file_name": "000000112110.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image description.",
+    "latency_s": 2.101427244999968
+  },
+  {
+    "image_id": 112110,
+    "file_name": "000000112110.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.9142968099999962
+  },
+  {
+    "image_id": 111609,
+    "file_name": "000000111609.jpg",
+    "question": "What objects are in this image?",
+    "gt_answer": "laptop, person",
+    "predicted": "In the image, there is a person sleeping on a bed with a blue and white checkered blanket. The person is lying on a pillow and appears to be in a relaxed state. The bed has a wooden headboard and is positioned in a room with a window. On the bed, there is a laptop computer. The room also has curtains with green and white checkered patterns.",
+    "latency_s": 4.947706320000179
+  },
+  {
+    "image_id": 111609,
+    "file_name": "000000111609.jpg",
+    "question": "Is there a person in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a person in the image.",
+    "latency_s": 1.8265591179999774
+  },
+  {
+    "image_id": 111609,
+    "file_name": "000000111609.jpg",
+    "question": "Is there a laptop in this image?",
+    "gt_answer": "Yes",
+    "predicted": "Yes, there is a laptop in the image.",
+    "latency_s": 1.6630707150000035
+  },
+  {
+    "image_id": 111609,
+    "file_name": "000000111609.jpg",
+    "question": "Is there a bicycle in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a bicycle in the image.",
+    "latency_s": 1.7244931669999914
+  },
+  {
+    "image_id": 111609,
+    "file_name": "000000111609.jpg",
+    "question": "Is there a cat in this image?",
+    "gt_answer": "No",
+    "predicted": "There is no existence of a cat in the image.",
+    "latency_s": 1.7056111009999313
+  },
+  {
+    "image_id": 111609,
+    "file_name": "000000111609.jpg",
+    "question": "How many persons are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one person in the image.",
+    "latency_s": 1.5885981650001213
+  },
+  {
+    "image_id": 111609,
+    "file_name": "000000111609.jpg",
+    "question": "How many laptops are in this image?",
+    "gt_answer": "1",
+    "predicted": "There is one laptop in the image.",
+    "latency_s": 1.5906932090001646
+  }
+]

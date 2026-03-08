@@ -1,0 +1,33 @@
+{
+  "detr_baseline": {
+    "model": "facebook/detr-resnet-50",
+    "approach": "Object Detection",
+    "map50": 0.7022926330648848,
+    "precision": 0.5020746887966805,
+    "recall": 0.8153638814016172,
+    "latency_ms": 79.48824374376073
+  },
+  "qwen_zeroshot": {
+    "model": "Qwen/Qwen2-VL-2B-Instruct",
+    "approach": "Zero-Shot VQA",
+    "object_list_f1": 0.5,
+    "yesno_accuracy": 0.779874213836478,
+    "counting_accuracy": 0.5932203389830508,
+    "overall_accuracy": 0.5708955223880597,
+    "latency_ms": 2384.407280921648
+  },
+  "qwen_finetuned": {
+    "model": "Qwen/Qwen2-VL-2B-Instruct + QLoRA",
+    "approach": "Fine-Tuned VQA",
+    "object_list_f1": 0.4133333333333333,
+    "yesno_accuracy": 0.8930817610062893,
+    "counting_accuracy": 0.5084745762711864,
+    "overall_accuracy": 0.6082089552238806,
+    "latency_ms": 2902.0571592276215,
+    "training": {
+      "method": "QLoRA (4-bit NF4, LoRA r=16, alpha=32)",
+      "train_pairs": 500,
+      "epochs": 3
+    }
+  }
+}

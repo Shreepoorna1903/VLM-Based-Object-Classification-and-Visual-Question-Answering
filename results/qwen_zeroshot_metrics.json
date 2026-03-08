@@ -1,0 +1,14 @@
+{
+  "model": "Qwen/Qwen2-VL-2B-Instruct",
+  "dtype": "float32",
+  "num_eval_pairs": 268,
+  "num_eval_images": 50,
+  "num_errors": 0,
+  "object_list_f1": 0.5,
+  "yesno_accuracy": 0.779874213836478,
+  "counting_accuracy": 0.03389830508474576,
+  "overall_accuracy": 0.5708955223880597,
+  "latency_ms_mean": 2384.407280921648,
+  "latency_ms_median": 2050.6799570000567,
+  "latency_ms_std": 1155.3737977410858
+}
